@@ -1,0 +1,4 @@
+#Tue Dec 03 22:08:39 IST 2024
+base.0=D\:\\food_menu\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

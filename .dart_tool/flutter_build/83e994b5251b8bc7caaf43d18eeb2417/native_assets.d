@@ -1,0 +1,1 @@
+ D:\\food_menu\\.dart_tool\\flutter_build\\83e994b5251b8bc7caaf43d18eeb2417\\native_assets.yaml: 

@@ -4,7 +4,7 @@
             "outputFile": "com.example.food_menu.app-mergeDebugResources-25:/values-uk/values-uk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SHIFAS\\.gradle\\caches\\transforms-3\\a183114a9e3f89546fa9e24f4b699a74\\transformed\\core-1.13.1\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\SHIFAS\\.gradle\\caches\\transforms-3\\af3f280da1f5fb034b4caee6235d7c93\\transformed\\core-1.13.1\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
